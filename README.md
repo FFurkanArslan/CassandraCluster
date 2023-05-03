@@ -5,7 +5,7 @@ With this docker-compose file, you can create a cassandra cluster with 3 nodes.
 
 
 
-##Usage
+## Usage
 In terminal type:
 
 ` docker-compose up -d `
