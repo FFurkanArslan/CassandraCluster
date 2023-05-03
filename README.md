@@ -1,7 +1,7 @@
-### Cassandra Cluster 
+# Cassandra Cluster 
 With this docker-compose file, you can create a cassandra cluster with 3 nodes.
 
-# For CRUD operations at least 2 replica must be alive.
+### For CRUD operations at least 2 replica must be alive.
 
 
 
